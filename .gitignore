@@ -53,3 +53,6 @@ Thumbs.db
 # Secrets
 *.key
 *.pem
+
+# files
+com.txt
