@@ -4,7 +4,7 @@
 
 <h3 align="center">Yes, it's me!</h3>
 <p align="center">
-   Advanced Instagram OSINT Tool - Find Instagram profiles by username, name, e-mail, and phone
+   Advanced Instagram OSINT Tool - Find Instagram profiles by username, name, e-mail, and phone even if they are locked. 
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 ```console
 # Clone the repository
-git clone https://github.com/blackeko/yesitsme/
+git clone https://github.com/imsanghaar/yesitsme/
 cd yesitsme
 
 # Install dependencies
@@ -341,4 +341,6 @@ This project is for educational and research purposes only. Use responsibly and 
 
 ## 📬 Contact
 
-Twitter: [@blackeko5](https://twitter.com/blackeko5)
+Twitter: [@blackeko5](https://twitter.com/blackeko5) **Original Creator**
+Linkedin: [@Imam Sanghaar](https://www.linkedin.com/in/imam-sanghaar-chandio-96780b274/) **Current Maintainer**
+
