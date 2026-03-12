@@ -1,0 +1,32 @@
+# yesitsme Configuration File
+# Copy this file to config.yaml and fill in your values
+# Sensitive values should be set via environment variables instead
+
+# Timeout between requests in seconds
+timeout: 10
+
+# Maximum number of retry attempts for failed requests
+max_retries: 3
+
+# Base delay between retries (seconds)
+retry_delay: 1.0
+
+# Export format: json, csv, or none
+export_format: json
+
+# Output directory for exported results
+output_dir: output
+
+# Log level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+log_level: INFO
+
+# Verbose output
+verbose: false
+
+# Proxy configuration (optional)
+# Format: http://user:pass@host:port or socks5://host:port
+# proxy: http://proxy.example.com:8080
+
+# NOTE: Do NOT store your session_id in this file!
+# Use the INSTAGRAM_SESSION_ID environment variable instead.
+# See .env.example for details.
